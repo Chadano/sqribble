@@ -1,6 +1,6 @@
 # Sqribble
 
-- https://sqribble.herokuapp.com
+- https://sqribble.glitch.me
 
 Sqribble is an open-source chatting application created for fun by MrBeeBenson. It is written in HTML, CSS and JavaScript.
 
